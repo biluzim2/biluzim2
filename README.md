@@ -1,16 +1,34 @@
-## Hi there 👋
+ 👋 Olá! Eu sou João Vittor
 
-<!--
-**biluzim2/biluzim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação
+🐍 Atualmente estudando **Python**
+ Aprendendo **MySQL e Banco de Dados**
+ Utilizando **Git e GitHub**
+ Sempre aprendendo e criando novos projetos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas Tecnologias:
+
+ 🐍 Python
+ 🗄️ MySQL
+ 🔧 Git
+🐙 GitHub
+ 💻 VS Code
+
+ Atualmente estudando
+
+Estou desenvolvendo meus conhecimentos em programação através de exercícios e projetos práticos, principalmente utilizando **Python e MySQL**.
+
+ - Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado em programação.
+
+Meu Objetivo é:
+
+Evoluir constantemente como desenvolvedor, aprender novas tecnologias e transformar ideias em projetos reais.
+
+
+
+⭐ Obrigado por visitar meu perfil!
+
