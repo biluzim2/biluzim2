@@ -29,6 +29,5 @@ Meu Objetivo é:
 Evoluir constantemente como desenvolvedor, aprender novas tecnologias e transformar ideias em projetos reais.
 
 
-
-⭐ Obrigado por visitar meu perfil!
+ Obrigado por visitar meu perfil!
 
